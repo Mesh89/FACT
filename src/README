@@ -1,0 +1,16 @@
+This is a lightweight consensus tree algorithm package.
+Developer: Chuanqi, Zhaoxian
+
+====Usage====
+Read comments inside main.cpp.
+Read NEXUS formated input.
+
+====Compile====
+Simple make under proper system.
+Compiler requirement: GCC version 4.8 or above.
+Lower version compiler may work as well.
+
+====Other====
+There are other files insides this packages as well.
+They are mainly used for academic purpose only.
+The scripts are used for testing performance of the algorithm.
